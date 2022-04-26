@@ -11,7 +11,7 @@
       title: SKUs and baskets
       model: data_monetization
       explore: basket_count_by_sku
-      type: single_value
+      type: looker_bar
       fields: [basket_count_by_sku.number_of_baskets,basket_count_by_sku.product]
       sorts: [basket_count_by_sku.product]
       limit: 10
@@ -32,4 +32,3 @@
       show_view_names: false
       defaults_version: 1
       series_types: {}
-
