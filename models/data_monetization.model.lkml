@@ -59,7 +59,7 @@ explore: products {
   }
 }
 
-explore: item_transaction {
+explore: dm_item_transaction {
 }
 explore: basket_count_by_sku {
   }

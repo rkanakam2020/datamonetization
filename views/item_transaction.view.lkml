@@ -1,5 +1,5 @@
-view: item_transaction {
-  sql_table_name: `retail.item_transaction`
+view: dm_item_transaction {
+  sql_table_name: `retail.dm_item_transaction`
     ;;
 
   dimension: basket_id {
