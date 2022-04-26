@@ -1,4 +1,4 @@
-connection: "product-discovery"
+connection: "looker-retailshared"
 
 # include all the views
 include: "/views/**/*.view"
